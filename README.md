@@ -11,3 +11,6 @@
 ### Import requests, smtplib, ssl, email.message, os library.
 ### Add required news category url from NewsAPI.
 ### Add sender email, receiver email, password.
+
+## Output
+https://github.com/Sha-ri-clould/API_news-Email/issues/2#issue-3071832474
