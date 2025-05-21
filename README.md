@@ -16,4 +16,4 @@
 ### Upload files and schedule task at preferred time.
 
 ## Output
-https://github.com/Sha-ri-clould/API_news-Email/issues/2#issue-3071832474
+https://github.com/Sha-ri-clould/Dailynews-Email/issues/1#issue-3080258807
